@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Tc"T"G
+email:       timothygu99@gmail.com
+author:      Timothy Gu
+description: "The hub for all things Timothy Gu."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://timothygu.github.io"
 
 # Google analytics
 google_analytics:
@@ -15,9 +15,9 @@ show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
-github_username:
-twitter_username:
+show_social_icons: true
+github_username: TimothyGu
+twitter_username: Timothy__Gu
 google_plus_id:
 linkedin_username:
 bitcoin_url:
