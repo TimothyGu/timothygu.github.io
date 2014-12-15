@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 Hi there, I am Timothy Gu (although you probably already know me by now).
-I am a current student at [Santa Margarita Catholic High School]
-(http://www.smhs.org) (sorry for the ugly website, it’s not my fault).
+I am a current student at [Santa Margarita Catholic High School](http://www.smhs.org)
+(sorry for the ugly website, it’s not my fault).
 
 I do most things you can think of that are computer-related, including:
 
