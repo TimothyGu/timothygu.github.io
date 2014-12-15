@@ -1,19 +1,23 @@
 ---
 layout: page
-title: About Pixyll
+title: About Timothy Gu
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hi there, I am Timothy Gu (although you probably already know me by now).
+I am a current student at [Santa Margarita Catholic High School]
+(http://www.smhs.org) (sorry for the ugly website, it’s not my fault).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I do most things you can think of that are computer-related, including:
 
-Thanks to the following:
+- C, Java, Perl
+- GNU Make, CMake, UNIX Shell
+- JavaScript (both Node.js and browser), some jQuery
+- Texinfo
+- Wikipedia
+- GitHub pages
+- xkcd
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+I also do many non-CS-related things (what a surprise!):
+
+- TODO
