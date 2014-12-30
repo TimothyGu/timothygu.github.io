@@ -14,6 +14,10 @@ animated:           false
 show_related_posts: false
 show_post_footers:  false
 
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: timothygu-github
+
 # Social icons
 show_social_icons: true
 github_username: TimothyGu
