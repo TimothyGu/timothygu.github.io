@@ -1,5 +1,5 @@
 # Site settings
-title:       Tc“T”G
+title:       Timothy Gu
 email:       timothygu99@gmail.com
 author:      Timothy Gu
 description: "The hub for all things Timothy Gu."
@@ -17,12 +17,14 @@ show_post_footers:  false
 # Social icons
 show_social_icons: true
 github_username: TimothyGu
+bitbucket_username: TimothyGu
 twitter_username: Timothy__Gu
 google_plus_id:
 linkedin_username:
 bitcoin_url:
 paypal_url:
 flattr_button:
+instagram_username: Timothy_Gu
 
 # Build settings
 markdown:     redcarpet
