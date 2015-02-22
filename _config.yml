@@ -4,7 +4,7 @@ email:       timothygu99@gmail.com
 author:      Timothy Gu
 description: "The hub for all things Timothy Gu."
 baseurl:     ""
-url:         ""
+url:         "https://timothygu.github.io"
 
 # Google analytics
 google_analytics: "UA-60010707-1"
