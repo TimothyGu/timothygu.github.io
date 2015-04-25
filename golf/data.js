@@ -17,10 +17,12 @@ var courses = [
 , 'Tijeras Creek'
 , 'Arroyo Trabuco'
 , 'Los Amigos'
+/*
 , 'Casta del Sol'
 , 'Recreation Park'
 , 'Casta del Sol'
 , 'Baker'
+*/
 ]
 
 var origDatasets = [

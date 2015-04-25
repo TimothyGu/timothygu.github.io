@@ -1,6 +1,6 @@
 Chart.defaults.global.responsive = true
 Chart.defaults.global.multiTooltipTemplate = '<%= value.toFixed(2) %>'
-// Chart.defaults.global.maintainAspectRatio = false
+//Chart.defaults.global.maintainAspectRatio = false
 Chart.defaults.Line.bezierCurveTension = 0.1
 
 function makeChart (id, datasets) {
