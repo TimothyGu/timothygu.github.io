@@ -1,0 +1,31 @@
+canvas {
+  width: 90%;
+  height: 90%;
+}
+
+footer {
+  border-top: thin solid #f3f3f3;
+  text-align: center;
+  background-color: #fafafa;
+  color: #7a7a7a;
+  padding: 32px;
+}
+
+ul.list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+
+ul.line-legend > li {
+  display: inline;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+ul.line-legend > li > span {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
