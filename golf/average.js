@@ -7,9 +7,11 @@ function movingAverage (datasets) {
       , count = 0
       , data = datasets[i].points
     for (var j = 0; j < data.length; j ++) {
-      if (data[j].value === null) continue
-      sum += data[j].value
-      data[j].value = sum / (++ count)
+      if (data[j].value !== null) {
+        count ++
+        sum += data[j].value
+      }
+      data[j].value = sum / count
     }
   }
 }
