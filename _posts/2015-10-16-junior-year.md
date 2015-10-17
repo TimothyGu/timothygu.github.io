@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Junior Year
-summary:    Experiences in my third year in high school;
+summary:    Experiences in my third year in high school.
 categories: school
 ---
 
