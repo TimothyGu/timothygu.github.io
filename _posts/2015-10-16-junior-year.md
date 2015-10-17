@@ -33,9 +33,9 @@ writer, and this year's IB English course (which corresponds roughly to AP
 English Language) is much harder than last year's, and places more emphasis on
 writing. IB History (equivalent to AP US History) has driven me to sleep at 4am
 on one occasion. IB Philosophy will be my second-ever non-A on my high school
-transcript at the end of this quarter (today).
+report card at the end of this quarter (today).
 
-Sounds tough, doesn't it.
+Sounds tough, doesn't it…
 
 But never for a second did I regret making the choice of taking IB a few months
 ago.
@@ -125,13 +125,13 @@ Another source of fun (and work) originates from my role as the Director of
 Technology at the PIxEL Foundation, a non-profit started by my friend
 [Ethan Lee][el].
 
-PIxEL stands for "programmer + innovator * entrepreneur + leaders". Last year,
-PIxEL was just another club on campus where we taught our peers on how to use
-HTML and CSS to MAKE SOMETHING on computer, and to more enlightened ones bits
-and pieces of JavaScript. Unfortunately, the rest of what PIxEL tries to be was
-not very much covered. But the relative success of the club kept us going, and
-the long-time members of the club (including me) formed a more close-knitted
-group.
+PIxEL stands for "programmers + innovators * entrepreneurs + leaders". Last
+year, PIxEL was just another club on campus where we taught our peers on how to
+use HTML and CSS to MAKE SOMETHING on computer, and to more enlightened ones
+bits and pieces of JavaScript. Unfortunately, the rest of what PIxEL tries to
+be was not very much covered. But the relative success of the club kept us
+going, and the long-time members of the club (including me) formed a more
+close-knitted group.
 
 This year, we are shifting gears to become a more mature and sustainable
 organization. First, we are officially a non-profit 501(c)3 corporation, thanks
