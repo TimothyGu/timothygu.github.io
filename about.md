@@ -5,14 +5,13 @@ permalink: /about/
 ---
 
 Hi there, I am Timothy Gu (although you probably already know me by now). I am
-a current student at [Santa Margarita Catholic High
-School](http://www.smhs.org) (sorry for the ugly website, it’s not my fault).
+a current student at [Santa Margarita Catholic High School](http://www.smhs.org).
 
 I do most things you can think of that are computer-related, including:
 
 - C, Java, Perl
-- [Wikipedia](//en.wikipedia.org/wiki/Special:Contributions/Timothy_Gu)
-- [GitHub pages](//timothygu.github.io/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Timothy_Gu)
+- [GitHub pages](https://timothygu.github.io/)
 - [PIxEL Clubs](//pixelclubs.org), a high school club dedicated for further
   web technology
 - Vector logo [dra](https://en.wikipedia.org/wiki/Special:ListFiles/Timothy_Gu)[wing](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Timothy_Gu&ilshowall=1)
@@ -22,16 +21,13 @@ I do most things you can think of that are computer-related, including:
 - JavaScript ([Node.js](https://github.com/orgs/jadejs/people) mostly, but
   occasionally some jQuery stuff too)
 - Texinfo
-- Last but not least, [xkcd](//xkcd.com)
+- Last but not least, [xkcd](https://xkcd.com)
 
 I also do many non-CS-related things (what a surprise!):
 
 - Classical guitar
 - Sailing in local lakes
-- Golf
+- Golfing
+- Fixing tallships at the [Ocean Institute](http://ocean-institute.org)
 - Español
 - 中文
-- CAP dumbbells
-- Folding umbrellas
-- (Occasionally) hacking random number generators in cheap calculators. Oh
-  wait, is this the non-CS-related list? Dam.
