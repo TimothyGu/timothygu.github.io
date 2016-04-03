@@ -32,9 +32,10 @@ flattr_button:
 instagram_username: Timothy_Gu
 
 # Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+markdown:     kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
 permalink:    /:year/:month/:day/:title/
 paginate:     3
 sass:
